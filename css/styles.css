@@ -2,7 +2,7 @@ body
 {
   background-image: url("https://am0908.github.io/BMI-Calculator/background.jpeg");
   text-align: center;
-  background-size: auto;
+  background-size: 300px 100px;
   background-repeat: no-repeat;
 }
 .bmi
