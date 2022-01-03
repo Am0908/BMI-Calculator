@@ -1,6 +1,6 @@
 body
 {
-  background-image: url("/Users/amritakumari/Documents/GitHub/BMI-Calculator/background.jpeg");
+  background-image: url("https://am0908.github.io/background.jpeg");
   text-align: center;
   background-size: cover;
 }
@@ -26,5 +26,5 @@ border: 2px solid yellow;
 }
 #btn
 {
-  
+
 }
