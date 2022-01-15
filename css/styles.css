@@ -23,8 +23,37 @@ h1,h3
 .hnw
 {
 border: 2px solid yellow;
+font-style: italic;
+border-radius: 5px;
+font-size: 15px;
 }
 #btn
 {
-  
+
+}
+.btn {
+  background: #ffffff;
+  background-image: -webkit-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -moz-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -ms-linear-gradient(top, #ffffff, #ffffff);
+  background-image: -o-linear-gradient(top, #ffffff, #ffffff);
+  background-image: linear-gradient(to bottom, #ffffff, #ffffff);
+  -webkit-border-radius: 26;
+  -moz-border-radius: 26;
+  border-radius: 26px;
+  font-family: Georgia;
+  color: #000000;
+  font-size: 15px;
+  padding: 5px 10px 5px 10px;
+  text-decoration: none;
+}
+
+.btn:hover {
+  background: yellow;
+  background-image: -webkit-linear-gradient(top, yellow, white);
+  background-image: -moz-linear-gradient(top, yellow, yellow);
+  background-image: -ms-linear-gradient(top, yellow, yellow);
+  background-image: -o-linear-gradient(top, yellow, yellow);
+  background-image: linear-gradient(to bottom, yellow, yellow);
+  text-decoration: none;
 }
