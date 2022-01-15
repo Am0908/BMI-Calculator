@@ -50,7 +50,7 @@ font-size: 15px;
 
 .btn:hover {
   background: yellow;
-  background-image: -webkit-linear-gradient(top, yellow, white);
+  background-image: -webkit-linear-gradient(top, yellow, yellow);
   background-image: -moz-linear-gradient(top, yellow, yellow);
   background-image: -ms-linear-gradient(top, yellow, yellow);
   background-image: -o-linear-gradient(top, yellow, yellow);
